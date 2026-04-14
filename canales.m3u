@@ -196,7 +196,7 @@ http://179.51.136.19:8000/play/a0q4/index.m3u8
 http://179.51.136.19:8000/play/a0wh/index.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN
-http://fortv.cc:8080/90820916/64752029/86765
+http://200.60.124.19:29000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="67" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/espn2-logo.png" group-title="Deportes",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
